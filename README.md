@@ -33,4 +33,6 @@ Se han seguido los comandos escritos previamente para subir dos documentos. Uno 
 
 Por último se han añadido elementos adicionales en este documento:
 Explicación de los comandos: [Comandos](https://github.com/ClaraCPC/p1-fork/blob/main/git.pdf)
-Evidencias de los entornos de desarrollo: [Entorno]()
+Evidencias de los entornos de desarrollo: [Entorno](https://github.com/ClaraCPC/p1-fork/blob/main/Entorno.pdf)
+
+![logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
