@@ -22,3 +22,17 @@ git checkout main
 ## ¿Cómo escribir un README.md con formato?
 
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Memoria
+
+```
+EL objetivod e sta práctica ha sido coger soltura con el entorno de 
+GitHub, asi como sus comandos. Se ha aprendido a clonar repositorios, realizar forks y actualizar ramas. 
+
+Se han seguido los comandos escritos previamente para subir dos documentos. Uno explicando los comandos anteriores: qué significan, para qué se han usado y logs que han dejado en la consola tras su ejecución. El otro documento es para evidenciar la descarga de tres entornos de desarrollo Java. 
+
+Por último se han añadido elementos adicionales en este documento:
+Explicación de los comandos: [Comandos](https://github.com/ClaraCPC/p1-fork/blob/main/git.pdf)
+Evidencias de los entornos de desarrollo: [Entorno]()
+
+```
