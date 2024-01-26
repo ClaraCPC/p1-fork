@@ -25,7 +25,7 @@ git checkout main
 
 ## Memoria
 
-```
+
 EL objetivod e sta práctica ha sido coger soltura con el entorno de 
 GitHub, asi como sus comandos. Se ha aprendido a clonar repositorios, realizar forks y actualizar ramas. 
 
@@ -34,5 +34,3 @@ Se han seguido los comandos escritos previamente para subir dos documentos. Uno 
 Por último se han añadido elementos adicionales en este documento:
 Explicación de los comandos: [Comandos](https://github.com/ClaraCPC/p1-fork/blob/main/git.pdf)
 Evidencias de los entornos de desarrollo: [Entorno]()
-
-```
